@@ -1,5 +1,5 @@
 # A simple nextflow pipeline
-This repository contains a simple nextflow pipeline to demonstrate basic features of the framework and DSL2. This examples is
+This repository contains a simple nextflow pipeline to demonstrate basic features of the framework and DSL2. This example is
 intended to serve as a tutorial.
 
 
